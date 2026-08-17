@@ -46,3 +46,6 @@ Squares roughly doubled prose. ~88% of square replies carried a named CAPS conce
 
 ## Synthesis
 The highest-leverage single post is: **one self-contained, named, present-tense, high-stakes claim, near the full character budget, no click-away, no question mark, authoritative.** Coining a *named concept* turns a hot take into a reusable idea readers repeat.
+
+## Correction & interpretation note (important)
+The "standalone-winner shape" (colored-square + ALL-CAPS named-concept opener) was observed among **in-thread replies**. Do **not** generalize it into a styling recommendation for **standalone posts**. When the data is re-cut on **roots/standalone posts only**, the opposite holds: plain **prose openers outperformed** emoji+CAPS openers (roughly double the likes). This matches how the platform ranks — it rewards authentic conversation and engagement velocity, and discounts broadcast/engagement-bait styling. Lesson: always re-cut engagement data on the same post type you are designing for; a reply's winning shape can suppress a standalone post's reach.
