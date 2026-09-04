@@ -1,4 +1,4 @@
-# Bluesky Engagement Study 📊
+# Bluesky Engagement Study
 
 **A rigorous, receipts-first study of what actually drives engagement on Bluesky — and a repeatable method to find your own answers.**
 
